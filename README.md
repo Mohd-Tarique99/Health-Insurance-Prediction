@@ -168,7 +168,7 @@ For major changes, please open an issue first to discuss what you would like to 
 
 ## 📝 License ##
 
-This project is under license from MIT. For more details, see the [[LICENSE](https://github.com/deepakm12/health-insurance-prediction/blob/main/LICENSE)](LICENSE) file.
+This project is under license from MIT. For more details, see the [[LICENSE](https://github.com/Mohd-Tarique99/Health-Insurance-Prediction/blob/main/LICENSE.txt)](LICENSE) file.
 
 Made by <a href="https://github.com/Mohd-Tarique99" target="_blank">Mohd Tarique</a>
 
