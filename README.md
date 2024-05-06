@@ -157,7 +157,7 @@ You can access the dataset [here](https://www.kaggle.com/datasets/mirichoi0218/i
 </div>
 
 <div align="center" id="top"> 
-  <img src="./images/Image6.png" alt="Image1" />
+  <img src="./images/Image6.jpg" alt="Image1" />
   &#xa0;
 
 </div>
