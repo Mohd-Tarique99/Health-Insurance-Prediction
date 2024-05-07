@@ -87,7 +87,7 @@ Before starting, make sure you have installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your_username/health-insurance-prediction.git
+   git clone https://github.com/Mohd-Tarique99/Health-Insurance-Prediction.git
    ```
 
 2. **Install Python:**
